@@ -162,7 +162,7 @@ In addition to our sample data we will need a few files to run
 <https://www.dropbox.com/s/1u9zo1kx61zx6ca/gencode.v19.GRCh37.genes.bed.gz>
 
 ```
-wget --no-check-cert https://www.dropbox.com/s/fbfntaa4oc75x6m/hg19_hla.bed.gz>
+wget --no-check-cert https://www.dropbox.com/s/fbfntaa4oc75x6m/hg19_hla.bed.gz
 wget --no-check-cert https://www.dropbox.com/s/rh1yp5c9bgguso1/hg19_haplo_count_blacklist.bed.gz
 wget --no-check-cert https://www.dropbox.com/s/1u9zo1kx61zx6ca/gencode.v19.GRCh37.genes.bed.gz
 ```
