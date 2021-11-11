@@ -191,7 +191,7 @@ You will need to decompress these files before they can be used by
 
 `gunzip *.bed.gz`
 
-**3. Run `phASER` with the example data**
+## 3. Run `phASER` with the example data**
 
 Now we have everything we need to run `phASER`. In my testing with
 this data set it took under 10 minutes using 8 threads on a quad core
