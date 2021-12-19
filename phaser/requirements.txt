@@ -1,0 +1,14 @@
+pysam
+pyvcf
+bcftools
+scipy
+numpy
+samtools
+tabix
+bedtools
+cython
+pandas
+r-base
+intervaltree
+
+#mamba create -n phaser python=2.7 mamba bedtools samtools pysam pyvcf bcftools scipy numpy samtools tabix bedtools cython pandas r-base intervaltree r-irkernel -y

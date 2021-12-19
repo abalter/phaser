@@ -1,1 +1,12 @@
 .DS_Store
+
+# The tutorial will generate large files
+tutorial/references/*
+tutorial/data/*
+tutorial/results/*
+
+# But keep these placeholders so the
+# folders stick around
+!tutorial/references/.references
+!tutorial/data/.data
+!tutorial/results/.results
